@@ -1,0 +1,26 @@
+input[type=text] {
+    width: 220px;
+    font-size: 16px;
+    border: 1px solid #cccccc;
+    border-radius: 10px;
+    padding: 5px;
+}
+#actions {
+    border-radius: 5px;
+    padding: 3px 10px 3px 10px;
+    font-size: 16px;
+}
+.submit {
+    border-radius: 5px;
+    padding: 3px 10px 3px 10px;
+    font-size: 16px;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
